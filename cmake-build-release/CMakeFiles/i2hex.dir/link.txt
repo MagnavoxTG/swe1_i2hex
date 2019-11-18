@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/i2hex.dir/main.c.o  -o i2hex 
